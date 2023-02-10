@@ -12,12 +12,15 @@
         />
 
 <EditText
+    android:id="@+id/txtNombre"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:inputType="text"
 
+
     />
     <Button
+        android:id="@+id/btnAceptar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/texto_boton"
